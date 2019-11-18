@@ -1,0 +1,80 @@
+First page:
+
+CLASSIFIED
+AGENT LORDTIEN                     [Image][Paper Clip]
+
+Subject: Portfolio
+
+Date: (Current Date)
+
+Details: On (Finishing Date) [Redacted text]
+engaged in the mission [Redacted text]
+
+Through internal agency channels, Lordtien was given the name to [Redacted text] an individual of
+[Redacted text] and given immediate clearance.
+
+[Redacted text] as reported to have done considerable work in "Development" and to have an unusual
+and interesting general background.
+
+According to [Redacted text], he was born in [Redacted text]
+
+[Redacted text]
+- Director of [Redacted text]
+
+
+FDXRT-400TYW68H22JUEL
+
+
+SECOND PAGE:
+
+SKILLS
+
+JavaScript
+[Add libraries used]
+
+Python
+[django, cv2, selenium, redis, celery]
+Various sources confirm that the agent has shown considerable expertise in Python, making
+use of tools mentioned above under fire.
+
+C++
+[cuda]
+
+AWS
+[EC2, RDS]
+
+Apache Storm
+
+
+THIRD PAGE:
+
+OPERATIONAL BACKGROUND
+
+RIPPLING [LOGO]
+Worked as a software engineer in multiple teams, contributing in data extractors for [Redacted text],
+third party API integrations and SAML integrations with [Redacted text]. 
+Also, contributed in the documentation of internal APIs.
+
+TECHNOARCH SOFTWARES [LOGO]
+Worked on a complex CRUD application for [Redacted text] serving [Redacted text], from the scratch, 
+handling overall back-end and front-end.
+Took over a project on cryptocurrency trading bot and added multiple features and functionalities
+to it, as well as optimizing the system.
+Mentored interns.
+
+PROFILEDSKIN [LOGO]
+Worked on migrating a texture detection script for [Redacted text] on GPU using CUDA.
+
+
+FOURTH PAGE:
+
+RENDEZVOUS
+
+Investigations undertook by [Redacted text] have revealed multiple but unreliable ways to
+establish contact with AGENT LORDTIEN. These are listed as follows:
+- Email: [Redacted text] nitinpawarme@gmail.com (available)
+- Phone: Proxied through extensive [Redacted text], use +917982289274
+
+Online presence (ALIAS: LORDTIEN)
+- [Github Link]
+- [LinkedIn Link]
