@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+body {
+  font-family: 'Special Elite', cursive;
+}
+
+.redacted {
+  position: relative;
+  white-space: pre;
+  background: black;
+  border-radius: 0.1em;
+  box-shadow: 0 0 1px rgba(0,0,0,0.35);
+  content: " ";
+  width: 100%;
+  height: 1em;
+  left: 0;
+  transform: skewY(-5deg) rotate(5deg);
+}
